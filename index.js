@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🤍 Listening to Hecker#7260","📊 Watching 2 Servers","🎵 Listening to Brown Munde"];
+const statusMessages = ["🤍 Listening to Hecker#7260","📊 Watching 2 Servers","🎵 Listening to **ALORS BRAZIL**"];
 
 
 let currentIndex = 0;
@@ -98,7 +98,7 @@ client.once('ready', () => {
 
   setInterval(() => {
     updateStatusAndSendMessages();
-  }, 50000);
+  }, 5000);
 });
 
 login();
