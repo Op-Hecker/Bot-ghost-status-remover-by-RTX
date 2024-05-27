@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["💙 Listening to Hecker#7260","👀 Watching You...","🎵 Playing FRESH!"];
+const statusMessages = ["💙 Listening to Hecker#7260","👀 Watching You...","🎵 Playing STEREO LOVE!","😒 I Hate Habibi","📊 Watching 2 Servers!","💔 No one Loves Me!"];
 
 
 let currentIndex = 0;
